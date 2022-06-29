@@ -1,3 +1,8 @@
+# This script extracts the words from /usr/share/dict/words
+# groups the words starting with the same letter and puts them to a file
+# Ex: all letters starting with "a" are copied to "a.txt" and "b" to "b.txt"
+# This also finds the file with maximum words and prints the first 20 words of the file
+
 #!/bin/bash
 
 max_words_cnt=0

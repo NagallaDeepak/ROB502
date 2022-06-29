@@ -3,3 +3,5 @@ class2/.vscode/dryrun.log
 class2/.vscode/settings.json
 class2/.vscode/targets.log
 class2/helloworld
+class2/fizzbuzz
+class2/primefactors

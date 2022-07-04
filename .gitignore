@@ -5,3 +5,11 @@ class2/.vscode/targets.log
 class2/helloworld
 class2/fizzbuzz
 class2/primefactors
+.vscode/configurationCache.log
+.vscode/dryrun.log
+.vscode/targets.log
+.vscode/tasks.json
+class3/args
+.vscode/c_cpp_properties.json
+class3/parity
+class3/upper

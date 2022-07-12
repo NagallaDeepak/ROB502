@@ -20,10 +20,10 @@ int main(void) {
         // In this case, convert to index 3
         // Divide the given index by 3 and put the remainder in array
         // Repeat this until the number is 0
-        int n = i, j=0;
+        int n = i, j = 0;
         while (n > 0) {
-            trit_encodings[i][j] = colors[n%3];
-            n = n/3;
+            trit_encodings[i][j] = colors[n % 3];
+            n = n / 3;
             j++;
         }
     }

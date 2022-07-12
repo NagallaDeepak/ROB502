@@ -1,0 +1,6 @@
+BasedOnStyle: LLVM
+IndentWidth: 4
+SortIncludes: false
+ColumnLimit: 0
+AlignTrailingComments: false
+PointerAlignment: Right
